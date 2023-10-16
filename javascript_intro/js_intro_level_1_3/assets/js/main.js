@@ -137,14 +137,14 @@ console.log("%c Intro-Level-1_8", "color: green");
 // let z = 10;
 // let resultOne = x * y / z;
 
-// let a = 15;
-// let b = 9;
-// console.log(a % b);
+let a = 15;
+let b = 9;
+console.log(a % b);
 
-// let c = 20;
+let c = 20;
 
-// let resultTwo = a + b * c;
-// console.log(resultTwo);
+let resultTwo = (a + b) * c;
+console.log(resultTwo);
 
 // a = a + 1; a += 1;
 // a++;

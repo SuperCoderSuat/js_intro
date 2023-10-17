@@ -38,10 +38,6 @@ console.log("%c Intro-Level-1_14", "color: green");
  ******************/
 console.log("%c Intro-Level-1_15", "color: green");
 
-/** Verwende die unten aufgeführten Operatoren, um die Variablen num und anotherNum miteinander zu vergleichen.
-Deklariere num = 5 und anotherNum = 8 als neue Variablen, dann gib die folgenden Vergleiche in der Konsole aus: ==, >, <, >= und <=.
-Vergleich num nun mit: == "5", != 8 und != "5". */
-
 // let num = 5;
 // let anotherNum = 8;
 

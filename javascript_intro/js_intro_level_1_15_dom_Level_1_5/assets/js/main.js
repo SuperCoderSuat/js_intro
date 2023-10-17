@@ -81,7 +81,7 @@ console.log("%c DOM-Level-1_2", "color: green");
 /*******************
  * DOM-Level-1_3
  ******************/
-// console.log("%c DOM-Level-1_3", "color: green");
+console.log("%c DOM-Level-1_3", "color: green");
 
 // let gallery = document.body.querySelector("#gallery");
 
@@ -91,6 +91,7 @@ console.log("%c DOM-Level-1_2", "color: green");
 /*******************
  * DOM-Level-1_5
  ******************/
+console.log("%c DOM-Level-1_5", "color: green");
 
 document.querySelector("#loc").textContent = document.URL;
 

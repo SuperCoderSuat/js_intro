@@ -1,0 +1,44 @@
+#headline {
+    font-size: 1rem;
+}
+
+#list {
+    font-size: .5rem;
+}
+
+.h1-style {
+    font-size: 2rem !important;
+    color: red;
+}
+
+.ul-style {
+    font-size: 1rem !important; 
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    margin: 0 auto;
+}
+
+article {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+}
+
+article div{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 50%;
+    border: .5px solid black;
+}
+
+div:nth-of-type(1) {
+    background-color: red;
+}
+

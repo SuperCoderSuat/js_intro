@@ -110,7 +110,9 @@ console.log("%c Forms-Level-1_3", "color: green");
 //     let alter1 = document.body.querySelector("form input:nth-of-type(1)");
 //     let alter2 = document.body.querySelector("form input:nth-of-type(2)");
 
-//     document.body.querySelector("p").textContent = alter1.value - alter2.value;
+//     let ergebis = alter1.value - alter2.value
+
+//     document.body.querySelector("p").textContent = Math.abs(ergebis);
 
 // }
 
